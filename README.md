@@ -21,7 +21,8 @@ Once this is achieved, we would be confident to explore how Spack package recipe
 
 - A similar internship topic: https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_AIAssistedTesting.html
 - A repository streamlining agent skills: https://github.com/huggingface/skills
-- PyPI to Spack package.py https://github.com/spack/pypi-to-spack-package
+- PyPI to Spack package.py: https://github.com/spack/pypi-to-spack-package
+- An agent example: https://github.com/karpathy/autoresearch
 
 ## Task Ideas
 
