@@ -12,7 +12,7 @@ Supervisors:
 - Thomas Bouvier, MdlS, thomas.bouvier@cea.fr
 
 > [!IMPORTANT]
-> The following is largely inspired by https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_AIAssistedTesting.html.
+> A similar internship topic: https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_AIAssistedTesting.html.
 
 ## Description
 
@@ -35,7 +35,7 @@ Such work implies developing a methodology to reuse existing Spack utilities, AI
 - A repository streamlining agent skills: https://github.com/huggingface/skills
 - PyPI to Spack package.py utility: https://github.com/spack/pypi-to-spack-package
 - An agent example: https://github.com/karpathy/autoresearch
-- https://github.com/danielmiessler/Fabric
+- AI prompts: https://github.com/danielmiessler/Fabric
 
 ## Expected Results and Milestones
 
