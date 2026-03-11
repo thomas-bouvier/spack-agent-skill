@@ -7,9 +7,10 @@ Duration: 6 months
 Where: Maison de la Simulation, CEA Saclay, France
 
 Supervisors:
+
+- Thomas Bouvier, MdlS, thomas.bouvier@cea.fr
 - Benoît Martin, MdlS, bmartin@cea.fr
 - Thomas Padioleau, MdlS, thomas.padioleau@cea.fr
-- Thomas Bouvier, MdlS, thomas.bouvier@cea.fr
 
 > [!IMPORTANT]
 > A similar internship topic: https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_AIAssistedTesting.html.
@@ -32,10 +33,13 @@ Such work implies developing a methodology to reuse existing Spack utilities, AI
 ## Material
 
 - A similar internship topic, oriented toward the testing of Spack-installed environments: https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_AIAssistedTesting.html
-- A repository streamlining agent skills: https://github.com/huggingface/skills
+- Spack tutorial: https://spack-tutorial.readthedocs.io/en/latest/
+- Hugging Face smolagents, a barebones library for agents that think in code: https://github.com/huggingface/smolagents
+- Hugging Face Skills: https://github.com/huggingface/skills
+- Showboat, to create executable demo documents that show and prove an agent's work: https://github.com/simonw/showboat
+- Beads, a memory upgrade for coding agents: https://github.com/steveyegge/beads
 - PyPI to Spack package.py utility: https://github.com/spack/pypi-to-spack-package
 - An agent example: https://github.com/karpathy/autoresearch
-- AI prompts: https://github.com/danielmiessler/Fabric
 
 ## Expected Results and Milestones
 
@@ -49,7 +53,7 @@ Such work implies developing a methodology to reuse existing Spack utilities, AI
 ## Requirements
 
 - Python programming skills
-- Generative AI knowledge and experience
+- Generative/agentic AI knowledge and experience
 - Packaging and build system knowledge
 - Interest in scientific software stacks
 
